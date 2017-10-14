@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\8442705a915a220f891fbf1c659e7f9e25944390\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_469e46e4538c2b6ee31c66c35336b8072d576063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\d6be744ce7a9248b7785d708558ad86d5dc5acd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_ea25425490f21c46aaf13b21ff747ae7e861a6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\52412fb831a90d418038290b564736b60fe0a835\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_e46695e3a8667b8ed06211e48cdf0f95af5a51a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\8695274ae029f5887602382330785f60a745bce0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_c9ac1db3adcb9255c03e2a81cac0f4c8c7472d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\3096ce5878bceefdfc8ebdeb358b1c5ead23049e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_34702c561c42b159798fd30b5491fd46434e869d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\d523158d58e352077c0b7f9658756c5d90960e4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_73c09681484739f98dd7c843a0440607aefe3ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_f2796c0048ae81a824513d0b3a3c3b4d6facdb60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d938ef7d01c49818f0771eb615ef52f24de2012f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\support-annotations-25.3.0_38668a9fefc06e1d889dcf2b7b05a1b1e6571c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\4a86d0e070ff08a8cad00eed6397f4818ecea854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_d5f5adba8d2fcd7e10796a87b8fccb091065f550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\819315afe60e17514216c5bce5eaf3030ea8aa0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_f21bfb4f94c5f7d7ce775206b5dc5cf82194e024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\1b80414cc6babf72bcf22cd0e3d9d74a934c56ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_77e74c6193a4237ccaa8e615330baef0752cbafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\49cbffb43fe5a84d4151c3fa2fd07425ad376d28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_ac56b610f6b908b8a49756d38edc4bdaa73b2e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\266f772b35ab32f87fd574ac51f1f8da9349a466\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_3342ddc5b21d7d87a17252a35f4b87f29a7443d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\a59b0159267d9aefb0c2602e2a3e5153fd9d4f7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_c460538917b88996a2064aa158641cdd41f1eea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\006de66af14d277ce6218dc5adbd26bea4c9d351\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_758c2979ca991a0536b4eb3db375ef4b1b713f32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\134f01a325c4d1c68b42436b2f8740fc81bc104b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\release\classes_3dbb71ad8cd112c4664227315f1e82ac9d7b8e6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\8706614d23acca12b318e1175bfe6b33680d514c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_923f083184592c80a7b3ab14c2dfd5f3378553de.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ff78a61c2aaab7a36d346a84a25349ec832a0a">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_406a644d22f4314bb53e0f071cf45e7dd5870324\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\319f5eb87611febe32cebee32a7e6e09ba05931d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_5641c2293def8f9ca6abc6135aba09aa993a9b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\.android\build-cache\205456be86cbe03126ec9ac356de4a7390597241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Ian\AndroidStudioProjects\CelsiusToFahrenheit\app\build\intermediates\pre-dexed\debug\classes_19c21c725eae0a2fd701ef193988e6035eed7794.jar" />
+    </item>
+
+</items>
